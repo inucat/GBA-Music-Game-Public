@@ -33,12 +33,12 @@ GBA SP (with Optimize Boot cable USB), mGBA 0.9.2
 ### 音楽（敬称略）
 
 - Kirakiraboshi (Wolfgang Amadeus Mozart)
-- Chip Polka ([HarvettFox96](www.smwcentral.net/?p=profile&id=9069))
-- Mushroom Kingdom Meltdown Reloaded より main-overworld ([Moose](www.smwcentral.net/?p=profile&id=12473))
+- Chip Polka ([HarvettFox96](https://www.smwcentral.net/?p=profile&id=9069))
+- main-overworld, Mushroom Kingdom Meltdown Reloaded ([Moose](https://www.smwcentral.net/?p=profile&id=12473))
 
 ### 効果音
 
-- [TAM Music Factory](www.tam-music.com)
+- [TAM Music Factory](https://www.tam-music.com)
 
 ## OBJドライバとフォント（文字部分）データのライセンス
 
