@@ -1,48 +1,46 @@
-[日本語](./README_ja.md)
+古典的音楽ゲーム（音ゲー）。学校の実験作品の縮小版。
 
-A classical music game for GBA.
+## 操作方法
 
-## Controls
+### タイトル画面
 
-### Title
+    STARTボタン:    進む
 
-    START:  Proceed
+### 選曲画面
 
-### Menu
+    上下ボタン:     カーソル移動
 
-    UP/DOWN:    Move cursor
+    Aボタン:        試聴
 
-    A:          Listen
+    STARTボタン:    選曲確定
 
-    START:      Play
+### 演奏画面
 
-### Playing
+    上下左右/ABボタン:  演奏用
 
-    DirPad-[U/D/L/R]/A/B:   For play
+    STARTボタン:        休憩・復帰
 
-    START:                  Pause/Resume
+    LRボタン:           【ポーズ中に】プレイ中断
 
-    Shoulder-[L/R]:         Quit while pause
+    SELECTボタン:       【曲終了後に】メニューへ戻る
 
-    SELECT:                 See menu after end
-
-## Requirement
+## 動作確認環境
 
 GBA SP (with Optimize Boot cable USB), mGBA 0.9.2
 
-## Credits
+## 使用素材
 
-### Songs
+### 音楽（敬称略）
 
 - Kirakiraboshi (Wolfgang Amadeus Mozart)
 - Chip Polka ([HarvettFox96](www.smwcentral.net/?p=profile&id=9069))
-- main-overworld, Mushroom Kingdom Meltdown Reloaded ([Moose](www.smwcentral.net/?p=profile&id=12473))
+- Mushroom Kingdom Meltdown Reloaded より main-overworld ([Moose](www.smwcentral.net/?p=profile&id=12473))
 
-### SFX (Direct sound)
+### 効果音
 
 - [TAM Music Factory](www.tam-music.com)
 
-## License of OBJ Driver and Font data (Letters part)
+## OBJドライバとフォント（文字部分）データのライセンス
 
 ```
 Copyright (c) 2017 Hayato Kohara
