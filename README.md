@@ -28,7 +28,11 @@ A classical music game for GBA.
 
 ## Requirement
 
-GBA SP (with Optimize Boot cable USB), mGBA 0.9.2
+- GBA SP (with Optimize Boot cable USB)
+
+or
+
+- mGBA 0.9.2
 
 ## Credits
 
