@@ -13,3 +13,10 @@ More detail:
 Note: This repository's mml2dmg *does not support* **SWEEP**, **NOISE** and **VELOCITY** command.
 
 Take a look at the example [kirakira.mml](./kirakira.txt).
+
+### Tips
+
+You must specify the song's tempo at the beginning of MML **both in 1st Channel and 5th Channel**;
+otherwise the notes will go out of sync.
+
+And it is not possible to change the tempo in the middle of the song.
